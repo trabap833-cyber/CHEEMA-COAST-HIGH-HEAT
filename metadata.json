@@ -1,0 +1,6 @@
+{
+  "name": "Cheema Coast: High Heat",
+  "description": "High-definition 3D Desi street car racing and neon police pursuit game on a coastal highway circuit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
